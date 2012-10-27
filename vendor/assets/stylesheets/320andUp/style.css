@@ -1862,6 +1862,7 @@ table tbody tr:hover th {
 
 
 #the_menu li {
+  list-style-type: none;
 }
 
 p {
